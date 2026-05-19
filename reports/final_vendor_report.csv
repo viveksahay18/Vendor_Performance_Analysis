@@ -1,0 +1,6 @@
+Vendor_ID,Vendor_Name,Delivery_Time,Quality_Score,Cost_per_Unit,On_Time_Delivery,Defect_Rate,Reliability_Score,Performance_Score
+V001,ABC Suppliers,5,90,120,95,2,88,81.89999999999999
+V002,XYZ Traders,8,75,100,80,5,70,67.5
+V003,Global Supplies,4,92,130,97,1,93,84.4
+V004,Fast Vendors,6,85,110,90,3,82,77.10000000000001
+V005,Prime Parts,10,70,95,75,7,65,62.8
